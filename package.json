@@ -1,7 +1,7 @@
 {
   "name": "xrand",
-  "version": "0.0.3",
-  "description": "generates unique random numbers between to integers",
+  "version": "0.0.4",
+  "description": "generates unique random numbers between two integers",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
