@@ -1,0 +1,19 @@
+{
+  "name": "urand",
+  "version": "0.0.1",
+  "description": "generates unique random numbers between to integers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "random",
+    "unique",
+    "integers"
+  ],
+  "author": "manas tunga",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
