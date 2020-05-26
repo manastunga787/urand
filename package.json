@@ -1,10 +1,14 @@
 {
-  "name": "urand",
-  "version": "0.0.1",
+  "name": "xrand",
+  "version": "0.0.3",
   "description": "generates unique random numbers between to integers",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manastunga787/xrand.git"
   },
   "keywords": [
     "random",
@@ -12,8 +16,5 @@
     "integers"
   ],
   "author": "manas tunga",
-  "license": "MIT",
-  "devDependencies": {
-    "jest": "^26.0.1"
-  }
+  "license": "MIT"
 }

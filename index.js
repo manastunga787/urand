@@ -1,5 +1,5 @@
 
-class Urand {
+class Xrand {
     constructor(from, to) {
         if (typeof from !== "number" || typeof to !== "number") {
             throw new Error("From and To must be integers.");
@@ -33,4 +33,4 @@ class Urand {
 
 }
 
-module.exports = Urand;
+module.exports = Xrand;
