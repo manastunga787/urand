@@ -3,7 +3,7 @@
 
 
 ```
-const Xrand = require("Xrand");
+const Xrand = require("xrand");
 
 // supply two numbers to generate unique random numbers
 
