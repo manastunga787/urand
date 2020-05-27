@@ -7,7 +7,7 @@ const Xrand = require("xrand");
 
 // supply two numbers to generate unique random numbers
 
-const xrand = new xrand(1, 3);
+const xrand = new Xrand(1, 3);
 ```
 To generate random number call  ```xrand.generate()``` method
 
