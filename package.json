@@ -1,6 +1,6 @@
 {
   "name": "xrand",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "generates unique random numbers between two integers",
   "main": "index.js",
   "scripts": {
